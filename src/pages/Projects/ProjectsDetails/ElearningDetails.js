@@ -1,8 +1,9 @@
 import React from 'react';
 import { PhotoProvider, PhotoView } from 'react-photo-view';
-import img1 from '../../../assets/onestudio/img1.png';
-import img2 from '../../../assets/onestudio/img2.png';
-import img3 from '../../../assets/onestudio/img3.png';
+import img1 from '../../../assets/elearning/img1.png';
+import img2 from '../../../assets/elearning/img2.png';
+import img3 from '../../../assets/elearning/img3.png';
+import img4 from '../../../assets/elearning/img4.png';
 
 const ElearningDetails = () => {
     return (
@@ -23,6 +24,11 @@ const ElearningDetails = () => {
                     <PhotoProvider>
                         <PhotoView src={img3}>
                             <img class="mt-6 w-full" alt="image of a girl posing" src={img3} />
+                        </PhotoView>
+                    </PhotoProvider>
+                    <PhotoProvider>
+                        <PhotoView src={img4}>
+                            <img class="mt-6 w-full" alt="image of a girl posing" src={img4} />
                         </PhotoView>
                     </PhotoProvider>
 
@@ -49,9 +55,9 @@ const ElearningDetails = () => {
                             <li>8.Used Express and Node to Create Server API</li>
                         </ul>
                         <div className=' flex gap-2 mt-4 text-red-500 justify-center'>
-                            <a href='https://one-studio-5fe46.web.app/' target='_blank' className='border  lg:p-2 p-1  rounded-lg uppercase font-bold shadow-lg shadow-white hover:text-orange-500'>Live Link</a>
-                            <a href='https://github.com/Iambijoy656/one_studio-client-site' target='_blank' className='border hover:text-orange-500 lg:p-2 p-1  rounded-lg uppercase font-bold shadow-lg shadow-white'>Client Code</a>
-                            <a href='https://github.com/Iambijoy656/one_studio-server-site' target='_blank' className='border hover:text-orange-500 lg:p-2 p-1 rounded-lg uppercase font-bold shadow-lg shadow-white'>Server Code</a>
+                            <a href='https://e-learning-4a147.web.app/' target='_blank' className='border  lg:p-2 p-1  rounded-lg uppercase font-bold shadow-lg shadow-white hover:text-orange-500'>Live Link</a>
+                            <a href='https://github.com/Iambijoy656/E-Learning-client-site' target='_blank' className='border hover:text-orange-500 lg:p-2 p-1  rounded-lg uppercase font-bold shadow-lg shadow-white'>Client Code</a>
+                            <a href='https://github.com/Iambijoy656/E-Learning-server-site' target='_blank' className='border hover:text-orange-500 lg:p-2 p-1 rounded-lg uppercase font-bold shadow-lg shadow-white'>Server Code</a>
 
 
                         </div>
