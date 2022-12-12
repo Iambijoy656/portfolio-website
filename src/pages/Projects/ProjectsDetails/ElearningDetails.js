@@ -38,7 +38,7 @@ const ElearningDetails = () => {
 
                     <h2 className='text-7xl font-bold'>E-Learning</h2>
                     <div>
-                        <p class=" text-base lg:leading-tight leading-normal text-gray-600 dark:text-gray-300 mt-7 text-justify">One Studio React Template – One Studio is absolutely as smart as the name suggests. It is designed to build Services sites.It is an Personal Photography site.PhotoGrapher provides many service through this website.  One Studio is a clean-cut template having stunning color combination.
+                        <p class=" text-base lg:leading-tight leading-normal text-gray-600 dark:text-gray-300 mt-7 text-justify">E-Learning Website is absolutely as smart as the name suggests. It is designed to build Services sites.It is an Educational site.Student can be  Course through this website.E-Learning is a clean-cut template having stunning color combination.
 
                             Designed with eye-catching graphics and lots of amazing features, this is just irresistible.</p>
                         <p class=" text-base lg:leading-tight leading-normal text-gray-600 dark:text-gray-300 mt-7 text-justify">
@@ -51,8 +51,7 @@ const ElearningDetails = () => {
                             <li>4.Used toaster to hot toast.</li>
                             <li>5.Used Firebase Login (Email, Password, Google)</li>
                             <li>6.Used React hooks,  Api for getting Data</li>
-                            <li>7.Data Stored in MongoDb</li>
-                            <li>8.Used Express and Node to Create Server API</li>
+                            <li>7.Used Express and Node to Create Server API</li>
                         </ul>
                         <div className=' flex gap-2 mt-4 text-red-500 justify-center'>
                             <a href='https://e-learning-4a147.web.app/' target='_blank' className='border  lg:p-2 p-1  rounded-lg uppercase font-bold shadow-lg shadow-white hover:text-orange-500'>Live Link</a>

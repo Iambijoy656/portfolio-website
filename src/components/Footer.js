@@ -10,15 +10,15 @@ const Footer = () => {
                 </div>
                 <div>
                     <div className="grid grid-flow-col gap-4">
-                        <a href="https://www.facebook.com/KBWorigin/">
+                        <a href="https://www.facebook.com/iamBijoyDas">
                             <FaFacebook className="text-3xl text-gray-500 hover:text-white"></FaFacebook>
                         </a>
 
-                        <a href="https://www.linkedin.com/in/khaled-bin-wahid-446820b5/">
+                        <a href="https://www.linkedin.com/in/bijoychandrodas/">
                             <FaLinkedin className="text-3xl text-gray-500 hover:text-white"></FaLinkedin>
                         </a>
 
-                        <a href="https://github.com/risaadodx">
+                        <a href="https://github.com/Iambijoy656">
                             <FaGithub className="text-3xl text-gray-500 hover:text-white"></FaGithub>
                         </a>
                     </div>
