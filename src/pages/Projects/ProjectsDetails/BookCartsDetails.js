@@ -34,10 +34,10 @@ const BookCartsDetails = () => {
 
                     <h2 className='text-7xl font-bold'>Books Cart</h2>
                     <div>
-                        <p class=" text-base lg:leading-tight leading-normal text-gray-600 dark:text-gray-300 mt-7">Books Cart React Template – Books Cart is absolutely as smart as the name suggests. It is designed to build eCommerce sites that can deal with Used Books.Book-Cart is a clean-cut template having stunning color combination.
+                        <p class=" text-base lg:leading-tight leading-normal text-gray-600 dark:text-gray-300 mt-7 text-justify">Books Cart React Template – Books Cart is absolutely as smart as the name suggests. It is designed to build eCommerce sites that can deal with Used Books.Book-Cart is a clean-cut template having stunning color combination.
 
                             Designed with eye-catching graphics and lots of amazing features, this is just irresistible.</p>
-                        <p class=" text-base lg:leading-tight leading-normal text-gray-600 dark:text-gray-300 mt-7">
+                        <p class=" text-base lg:leading-tight leading-normal text-gray-600 dark:text-gray-300 mt-7 text-justify">
                             Designed with eye-catching graphics and lots of amazing features, this is just irresistible. It is Responsive, Retina ready & Multi-Device supported.</p>
                         <h4 className='text-4xl font-semibold mt-10 mb-4'>Features:</h4>
                         <ul className='text-gray-600'>
@@ -52,8 +52,8 @@ const BookCartsDetails = () => {
                         </ul>
                         <div className=' flex gap-2 mt-4 text-red-500 justify-center'>
                             <a href='https://books-cart-b3ccf.web.app/' target='_blank' className='border  lg:p-2 p-1  rounded-lg uppercase font-bold shadow-lg shadow-white hover:text-orange-500'>Live Link</a>
-                            <a href='https://github.com/Iambijoy656/used-book_cart-client-site' target='_blank' className='border hover:text-orange-500 lg:p-2 p-1  rounded-lg uppercase font-bold shadow-lg shadow-white'>Server Code</a>
-                            <a href='https://github.com/Iambijoy656/used-books_cart-server-site' target='_blank' className='border hover:text-orange-500 lg:p-2 p-1 rounded-lg uppercase font-bold shadow-lg shadow-white'>Client Code</a>
+                            <a href='https://github.com/Iambijoy656/used-book_cart-client-site' target='_blank' className='border hover:text-orange-500 lg:p-2 p-1  rounded-lg uppercase font-bold shadow-lg shadow-white'>Client Code</a>
+                            <a href='https://github.com/Iambijoy656/used-books_cart-server-site' target='_blank' className='border hover:text-orange-500 lg:p-2 p-1 rounded-lg uppercase font-bold shadow-lg shadow-white'>Server Code</a>
 
 
                         </div>
