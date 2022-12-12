@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaFile, FaGithub, FaLinkedinIn } from 'react-icons/fa';
+
 import { PhotoProvider, PhotoView } from 'react-photo-view';
 import img1 from '../../../assets/bookscart/img1.png';
 import img2 from '../../../assets/bookscart/img2.png';
@@ -52,8 +52,8 @@ const BookCartsDetails = () => {
                         </ul>
                         <div className=' flex gap-2 mt-4 text-red-500 justify-center'>
                             <a href='https://books-cart-b3ccf.web.app/' target='_blank' className='border  lg:p-2 p-1  rounded-lg uppercase font-bold shadow-lg shadow-white hover:text-orange-500'>Live Link</a>
-                            <a href='' target='_blank' className='border hover:text-orange-500 lg:p-2 p-1  rounded-lg uppercase font-bold shadow-lg shadow-white'>Server Code</a>
-                            <a href='' target='_blank' className='border hover:text-orange-500 lg:p-2 p-1 rounded-lg uppercase font-bold shadow-lg shadow-white'>Client Code</a>
+                            <a href='https://github.com/Iambijoy656/used-book_cart-client-site' target='_blank' className='border hover:text-orange-500 lg:p-2 p-1  rounded-lg uppercase font-bold shadow-lg shadow-white'>Server Code</a>
+                            <a href='https://github.com/Iambijoy656/used-books_cart-server-site' target='_blank' className='border hover:text-orange-500 lg:p-2 p-1 rounded-lg uppercase font-bold shadow-lg shadow-white'>Client Code</a>
 
 
                         </div>
